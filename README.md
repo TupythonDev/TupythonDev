@@ -13,6 +13,9 @@ Sou um desenvolvedor indie que tenta criar seu proprio mundo digital. Estou na h
     display:flex;
     align-items:center;
   }
+  .container img {
+    width:30px;
+  }
 </style>
 
 <div class="container">
