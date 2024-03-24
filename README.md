@@ -7,8 +7,11 @@ Sou um desenvolvedor indie que tenta criar seu proprio mundo digital. Estou na h
 #
 
 ### Linguagens e Ferramentas
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
 
-<div class="container" style="">
+<div class="container" >
   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width:40px;"/>
   <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="width:40px;"/>
   <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="width:40px;"/>
