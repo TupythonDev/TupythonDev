@@ -28,4 +28,4 @@ Sou um desenvolvedor indie que tenta criar seu proprio mundo digital. Estou na h
 
 ### Stats
 
-![TupythonDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=tupythondev&show_icons=true&theme=gruvbox)
+![TupythonDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=tupythondev&show_icons=true&theme=onedark)
