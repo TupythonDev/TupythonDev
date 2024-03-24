@@ -1,1 +1,9 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+.container img {
+  width:30px;
+}
