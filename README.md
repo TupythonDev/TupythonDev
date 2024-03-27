@@ -1,14 +1,12 @@
-# 🐍Lucas Tupynambá (TupythonDev)
+<h1 align="center"> 🐍Lucas Tupynambá (TupythonDev) </h1>
 
-**`Developer | Game Developer | Web Developer`**
-
-Sou um desenvolvedor indie que tenta criar seu proprio mundo digital. Estou na humilde tentativa de aprender cada vez mais e enfim me tornar um engenheiro de software.
+<p align="center">Sou um desenvolvedor indie que tenta criar seu proprio mundo digital. Estou na humilde tentativa de aprender cada vez mais e enfim me tornar um engenheiro de software.</p>
 
 #
 
-### Linguagens e Ferramentas
+<h3 align="center" >Linguagens e Ferramentas</h3>
 
-<div class="container" >
+<div align="center" >
     <img alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
     <img alt="C#" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
     <img alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -29,6 +27,17 @@ Sou um desenvolvedor indie que tenta criar seu proprio mundo digital. Estou na h
 
 #
 
-### Stats
-
-![TupythonDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=tupythondev&show_icons=true&theme=onedark)
+<h3 align='center'>Stats</h3> 
+<div align="center">
+    <picture >
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=TupythonDev&show_icons=true&theme=dark"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api?username=TupythonDev&show_icons=true"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=TupythonDev&show_icons=true" />
+    </picture>
+</div>
