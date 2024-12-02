@@ -1,6 +1,6 @@
 <h1 align="center"> 🐍Lucas Tupynambá (TupythonDev) </h1>
 
-<p align="center">Sou um desenvolvedor indie que tenta criar seu proprio mundo digital. Estou na humilde tentativa de aprender cada vez mais e enfim me tornar um engenheiro de software.</p>
+<p align="center">Apenas um dev tentando criar seu proprio mundo digital. Estou na humilde tentativa de aprender cada vez mais e enfim me tornar um engenheiro de software.</p>
 
 #
 
